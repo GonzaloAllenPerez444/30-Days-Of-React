@@ -1,0 +1,29 @@
+
+
+#subscribeBox{background-color: powderblue;
+              height: 200px;
+                width: 500px;
+                position: absolute;
+                top: 50%;
+                left: 25%;
+                
+                align-items: center;
+                justify-self: center;
+                text-align: center;
+                
+                
+                padding: 20px;
+        
+            
+                };
+
+
+.inputs {position: relative;
+         height: 50px;
+        
+        }
+
+
+
+
+
